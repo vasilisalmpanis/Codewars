@@ -9,3 +9,4 @@ This is the repository I will be uploading my codewars solutions while I practic
 <hr>
 <br>
 <a href="https://www.codewars.com/users/vasilisalmpanis">Profile Link</a>
+<img src="https://www.biolibre.fr/en/articles/high-tech/codewars/194" alt="Girl in a jacket" width="500" height="600">
