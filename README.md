@@ -9,4 +9,6 @@ This is the repository I will be uploading my codewars solutions while I practic
 <hr>
 <br>
 <a href="https://www.codewars.com/users/vasilisalmpanis">Profile Link</a>
+<hr>
+<br>
 ![Codewars](https://www.biolibre.fr/en/articles/high-tech/codewars/194)
