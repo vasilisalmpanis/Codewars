@@ -1,5 +1,5 @@
 <p align="center">
-  <h2> Codewars </h2>
+  <h2 align="center"> Codewars </h2>
   <br>
   This is the repository I will be uploading my codewars solutions while I practice for the core curriculum of 42 Wolfsburg.
   <hr>
