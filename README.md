@@ -1,3 +1,6 @@
 ## Codewars
 <br>
-This is the repository I will be uploading my codewars solutions while I practice for the core curriculum of 42 WOlfsburg
+This is the repository I will be uploading my codewars solutions while I practice for the core curriculum of 42 Wolfsburg.
+Current level : 7 Kyu 19.6%
+Completed Kata : 26
+
