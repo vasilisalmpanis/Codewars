@@ -5,5 +5,5 @@ This is the repository I will be uploading my codewars solutions while I practic
 <strong>Current level :</strong> 7 Kyu 19.6%
 <hr>
 <br>
-Completed Kata : 26
+<strong>Completed Kata :</strong> 26
 
