@@ -11,5 +11,6 @@ This is the repository I will be uploading my codewars solutions while I practic
 <a href="https://www.codewars.com/users/vasilisalmpanis">Profile Link</a>
 <hr>
 <br>
+<p align="center">
   <img src="https://biolibre.fr/images/articles/codewars.jpg" width="450" alt="Codewars">
 </p>
