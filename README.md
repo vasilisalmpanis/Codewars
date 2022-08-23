@@ -6,4 +6,6 @@ This is the repository I will be uploading my codewars solutions while I practic
 <hr>
 <br>
 <strong>Completed Kata :</strong> 26
-
+<hr>
+<br>
+<a href="https://www.codewars.com/users/vasilisalmpanis">Profile Link</a>
